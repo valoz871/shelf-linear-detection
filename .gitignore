@@ -186,3 +186,11 @@ dmypy.json
 
 ### VS Code
 .vscode
+
+# macOS
+.DS_Store
+
+# User data (images, outputs, model weights)
+my_data/
+weights/
+.claude/
