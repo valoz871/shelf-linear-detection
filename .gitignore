@@ -190,7 +190,6 @@ dmypy.json
 # macOS
 .DS_Store
 
-# User data (images, outputs, model weights)
+# User data (images, outputs)
 my_data/
-weights/
 .claude/
